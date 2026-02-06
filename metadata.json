@@ -1,0 +1,7 @@
+{
+  "name": "Al-Husna: The Ultimate Reward",
+  "description": "An interactive spiritual reflection app exploring the depth of Surah Yunus Ayah 26 and the promise of 'Even More' in Paradise.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
